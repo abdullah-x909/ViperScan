@@ -1,7 +1,7 @@
 # 🐍 ViperScan
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/viperscan/main/assets/viperscan-logo.png" alt="ViperScan Logo" width="200">
+  <img src="https://raw.githubusercontent.com/abdullah-x909/viperscan/main/assets/viperscan-logo.png" alt="ViperScan Logo" width="200">
   
   <p>A powerful, open-source web security testing platform for ethical hackers and bug bounty hunters.</p>
 
@@ -53,10 +53,10 @@
 ## 🎨 Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/viperscan/main/assets/screenshot-proxy.png" alt="Proxy Tab" width="800">
+  <img src="https://raw.githubusercontent.com/abbdullah-x909/viperscan/main/assets/screenshot-proxy.png" alt="Proxy Tab" width="800">
   <p><em>Proxy Interceptor with Request/Response Modification</em></p>
   
-  <img src="https://raw.githubusercontent.com/your-username/viperscan/main/assets/screenshot-scanner.png" alt="Scanner Tab" width="800">
+  <img src="https://raw.githubusercontent.com/abdullah-x909/viperscan/main/assets/screenshot-scanner.png" alt="Scanner Tab" width="800">
   <p><em>Vulnerability Scanner Dashboard</em></p>
 </div>
 
@@ -72,7 +72,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/viperscan.git
+git clone https://github.com/abdullah-x909/ViperScan.git
 
 # Navigate to project directory
 cd viperscan
@@ -177,8 +177,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - [Documentation](https://docs.viperscan.io)
-- [Bug Tracker](https://github.com/your-username/viperscan/issues)
-- [Feature Requests](https://github.com/your-username/viperscan/discussions)
+- [Bug Tracker](https://github.com/abdullah-x909/viperscan/issues)
+- [Feature Requests](https://github.com/abdullah-x909/viperscan/discussions)
 
 ## 📊 Project Status
 
