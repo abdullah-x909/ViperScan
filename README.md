@@ -1,7 +1,7 @@
 # 🐍 ViperScan
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abdullah-x909/viperscan/main/assets/viperscan-logo.png" alt="ViperScan Logo" width="200">
+  <img src="https://raw.githubusercontent.com/abdullah-x909/viperscan/main/assets/proxy-tab.png" alt="ViperScan" width="200">
   
   <p>A powerful, open-source web security testing platform for ethical hackers and bug bounty hunters.</p>
 
@@ -53,11 +53,16 @@
 ## 🎨 Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abbdullah-x909/viperscan/main/assets/screenshot-proxy.png" alt="Proxy Tab" width="800">
+  <img src="https://raw.githubusercontent.com/abbdullah-x909/viperscan/main/assets/proxy-tab.png" alt="Proxy Tab" width="800">
   <p><em>Proxy Interceptor with Request/Response Modification</em></p>
   
-  <img src="https://raw.githubusercontent.com/abdullah-x909/viperscan/main/assets/screenshot-scanner.png" alt="Scanner Tab" width="800">
+  <img src="https://raw.githubusercontent.com/abdullah-x909/viperscan/main/assets/scanner-tab.png" alt="Scanner Tab" width="800">
   <p><em>Vulnerability Scanner Dashboard</em></p>
+
+  <img src="https://raw.githubusercontent.com/abdullah-x909/viperscan/main/assets/tools-tab.png" alt="Scanner Tab" width="800">
+
+<img src="https://raw.githubusercontent.com/abdullah-x909/viperscan/main/assets/repeater-tab.png" alt="Scanner Tab" width="800">
+
 </div>
 
 ## 🔧 Installation
