@@ -1,7 +1,7 @@
 # 🐍 ViperScan
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abdullah-x909/viperscan/main/assets/proxy-tab.png" alt="ViperScan" width="200">
+  <img src="🐍" alt="ViperScan" width="200">
   
   <p>A powerful, open-source web security testing platform for ethical hackers and bug bounty hunters.</p>
 
